@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "csl-json",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "references",
+  "literatureNoteContentTemplate": "```\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n````\n# {{title}}\n\n\n---",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "references/zettelkasten.json"
+}

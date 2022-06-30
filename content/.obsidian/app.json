@@ -1,0 +1,29 @@
+{
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "files",
+  "promptDelete": true,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "readableLineLength": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showIndentGuide": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
+}

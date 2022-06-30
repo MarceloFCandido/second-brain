@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "56cdf2f86a9399a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5b166eee9c4ef26",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/bus-topology.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "463ea438d78bde39",
+    "type": "split",
+    "children": [
+      {
+        "id": "e67b113c7e667f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b3a8be857efaa88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "055afe7799fc1ae4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.0107650756836,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e06002c437041b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aaaa6305bb2762f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5817a4a7fd6990fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/bus-topology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b5b166eee9c4ef26",
+  "lastOpenFiles": [
+    "notes/bus-topology.md",
+    "notes/fault-tolerance.md",
+    "templates/idea.md",
+    "zettelkasten/bus-topology.md",
+    "zettelkasten/physical-topologies.md",
+    "zettelkasten/point_to_multipoint-topology.md",
+    "zettelkasten/point_to_point-topology.md",
+    "zettelkasten/storage-area-network.md",
+    "zettelkasten/computer-networks.md",
+    "zettelkasten/local-area-network.md"
+  ]
+}
