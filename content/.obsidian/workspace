@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b5b166eee9c4ef26",
+        "id": "1e8eca43dbf38e77",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/bus-topology.md",
+            "file": "notes/learning-how-to-learn.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.0107650756836,
-    "collapsed": true
+    "width": 333.00868225097656
   },
   "right": {
     "id": "e06002c437041b36",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bus-topology.md",
+                "file": "notes/learning-how-to-learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +87,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b5b166eee9c4ef26",
+  "active": "1e8eca43dbf38e77",
   "lastOpenFiles": [
+    "notes/learning-how-to-learn.md",
+    "notes/learning-methodology.md",
+    "_index.md",
     "notes/bus-topology.md",
     "notes/fault-tolerance.md",
     "templates/idea.md",
     "zettelkasten/bus-topology.md",
     "zettelkasten/physical-topologies.md",
     "zettelkasten/point_to_multipoint-topology.md",
-    "zettelkasten/point_to_point-topology.md",
-    "zettelkasten/storage-area-network.md",
-    "zettelkasten/computer-networks.md",
-    "zettelkasten/local-area-network.md"
+    "zettelkasten/point_to_point-topology.md"
   ]
 }

@@ -3,7 +3,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
   "attachmentFolderPath": "files",
-  "promptDelete": true,
+  "promptDelete": false,
   "vimMode": false,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
