@@ -1,4 +1,7 @@
-# Quartz
+# Marcelo's Second Brain 🧠
+It's where I keep my study notes while following some kind of [Zettelkasten method](https://en.wikipedia.org/wiki/Zettelkasten).
+
+## Quartz
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
 

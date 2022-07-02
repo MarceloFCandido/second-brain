@@ -17,12 +17,25 @@
         }
       },
       {
-        "id": "15ac5196defe3108",
+        "id": "0de4204cbee05911",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/ethical-hacking.md",
+            "file": "notes/learning-how-to-learn.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f9ac198b046dfa08",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/computer-networks.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ethical-hacking.md",
+                "file": "notes/learning-how-to-learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,14 +114,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15ac5196defe3108",
+  "active": "0de4204cbee05911",
   "lastOpenFiles": [
-    "notes/ethical-hacking.md",
-    "_index.md",
     "notes/learning-how-to-learn.md",
+    "notes/computer-networks.md",
+    "_index.md",
+    "notes/ethical-hacking.md",
     "notes/setting-goals-for-learning.md",
     "notes/being-accountable.md",
-    "notes/computer-networks.md",
     "notes/short_term-goals.md",
     "notes/long_term-goals.md",
     "templates/post.md",

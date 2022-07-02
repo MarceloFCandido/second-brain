@@ -3,10 +3,10 @@ enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
-enableSPA: true
+enableSPA: false
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 description:
   It's where Marcelo keeps its study notes while following some kind of Zettelkasten method.
 page_title:
