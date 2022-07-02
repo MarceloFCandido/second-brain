@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1e8eca43dbf38e77",
+        "id": "15bc541a059f47a5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/learning-how-to-learn.md",
+            "file": "_index.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "15ac5196defe3108",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/ethical-hacking.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.00868225097656
+    "width": 333.00868225097656,
+    "collapsed": true
   },
   "right": {
     "id": "e06002c437041b36",
@@ -70,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning-how-to-learn.md",
+                "file": "notes/ethical-hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,19 +99,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "1e8eca43dbf38e77",
+  "active": "15ac5196defe3108",
   "lastOpenFiles": [
-    "notes/learning-how-to-learn.md",
-    "notes/learning-methodology.md",
+    "notes/ethical-hacking.md",
     "_index.md",
-    "notes/bus-topology.md",
-    "notes/fault-tolerance.md",
-    "templates/idea.md",
-    "zettelkasten/bus-topology.md",
-    "zettelkasten/physical-topologies.md",
-    "zettelkasten/point_to_multipoint-topology.md",
-    "zettelkasten/point_to_point-topology.md"
+    "notes/learning-how-to-learn.md",
+    "notes/setting-goals-for-learning.md",
+    "notes/being-accountable.md",
+    "notes/computer-networks.md",
+    "notes/short_term-goals.md",
+    "notes/long_term-goals.md",
+    "templates/post.md",
+    "notes/learning-methodology.md"
   ]
 }
