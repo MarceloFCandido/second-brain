@@ -1,12 +1,12 @@
 name: Marcelo Ferreira Cândido 🧠
-enableToc: true
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
-enableSPA: false
+enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: true
+enableRecentNotes: false
 description:
   It's where Marcelo keeps its study notes while following some kind of Zettelkasten method.
 page_title:
