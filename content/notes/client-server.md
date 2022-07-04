@@ -14,4 +14,3 @@ This type of architecture allows some advantages:
 
 # references
 
----

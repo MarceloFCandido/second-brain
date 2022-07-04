@@ -9,4 +9,3 @@ The hybrid mesh topology is a variation of the [mesh-topology](notes/mesh-topolo
 
 # references
 
----

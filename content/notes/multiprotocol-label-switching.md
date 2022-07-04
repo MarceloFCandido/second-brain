@@ -9,4 +9,3 @@ Multiprotocol Label Switching (MPLS) is a popular protocol used in [wide-area-ne
 
 # references
 
----

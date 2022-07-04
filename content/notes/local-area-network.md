@@ -16,4 +16,3 @@ The most common devices in LANs are:
 
 # references
 
----

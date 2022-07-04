@@ -13,4 +13,3 @@ Some more sophisticated implementations of hub-and-spoke topology are: [[point_t
 
 # references
 
----

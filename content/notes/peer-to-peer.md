@@ -14,4 +14,3 @@ Considering this definition, it is valid to say that there is no central authori
 
 # references
 
----

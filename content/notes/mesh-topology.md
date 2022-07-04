@@ -13,4 +13,3 @@ Because of its characteristics, it is not a common to use the mesh topology in L
 
 # references
 
----

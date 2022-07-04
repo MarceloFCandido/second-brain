@@ -9,4 +9,3 @@ The fault tolerance property consists of computer systems reducing fault impacts
 
 # references
 
----

@@ -11,4 +11,3 @@ With these characteristics, similarly to the the [bus-topology](notes/bus-topolo
 
 # references
 
----
