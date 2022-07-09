@@ -7,7 +7,7 @@
   "vimMode": false,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "showLineNumber": false,
   "spellcheck": true,
   "readableLineLength": true,

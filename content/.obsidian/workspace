@@ -4,12 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "f4408517870419ad",
+        "id": "f7407a7b4c2e54e9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/computer-networks.md",
+            "file": "notes/ethical-hacking.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "94859dd9164107bf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/vulnerability.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "67e49b9256e1483e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/vulnerability-management.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,13 +96,25 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/computer-networks.md",
+                "file": "notes/vulnerability-management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40fbc109ceba85c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/vulnerability-management.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -88,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4408517870419ad",
+  "active": "67e49b9256e1483e",
   "lastOpenFiles": [
-    "notes/computer-networks.md",
-    "notes/hub_and_spoke-topology.md",
-    "notes/bus-topology.md",
-    "notes/physical-topologies.md",
-    "notes/client-server.md",
-    "notes/cia-triad.md",
-    "notes/confidentiality.md",
-    "notes/fault-tolerance.md",
-    "notes/being-accountable.md",
-    "notes/availability.md"
+    "notes/vulnerability-management.md",
+    "notes/vulnerability-scan.md",
+    "notes/vulnerability.md",
+    "notes/ethical-hacking.md",
+    "notes/auditing.md",
+    "notes/iscsi.md",
+    "notes/storage-area-network.md",
+    "notes/workstations.md",
+    "notes/workgroups.md",
+    "notes/wireless-hub_and_spoke-topology.md"
   ]
 }
