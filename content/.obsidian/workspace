@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "15bc541a059f47a5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_index.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "f4408517870419ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/ethical-hacking.md",
+            "file": "notes/computer-networks.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.00868225097656,
-    "collapsed": true
+    "width": 333.00868225097656
   },
   "right": {
     "id": "e06002c437041b36",
@@ -84,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ethical-hacking.md",
+                "file": "notes/computer-networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +90,15 @@
   },
   "active": "f4408517870419ad",
   "lastOpenFiles": [
-    "notes/ethical-hacking.md",
-    "_index.md",
-    "notes/learning-how-to-learn.md",
     "notes/computer-networks.md",
-    "notes/iaaa.md",
+    "notes/hub_and_spoke-topology.md",
+    "notes/bus-topology.md",
+    "notes/physical-topologies.md",
+    "notes/client-server.md",
     "notes/cia-triad.md",
     "notes/confidentiality.md",
-    "notes/integrity.md",
-    "notes/availability.md",
-    "notes/setting-goals-for-learning.md"
+    "notes/fault-tolerance.md",
+    "notes/being-accountable.md",
+    "notes/availability.md"
   ]
 }
