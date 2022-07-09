@@ -2,7 +2,7 @@
 title: "learning-how-to-learn"
 tags:
 - 
-enableToc: true
+enableToc: false
 ---
 
 ## General advice
