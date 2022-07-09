@@ -12,5 +12,5 @@ This type of architecture allows some advantages:
 - better security, as the credentials are centralized in one machine;
 - scalability, as servers can get a lot of workstations connected to them.
 
-# references
+## references
 

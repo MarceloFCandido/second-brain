@@ -9,5 +9,5 @@ enableToc: false
  
  For doing this, you can choose between [short-term goals](notes/short_term-goals.md) and [long-term goals](notes/long_term-goals.md), being the former the building blocks of the later. Together, they will form your [incremental plan](notes/incremental-plan.md) to your main goal. I. e. for accomplishing your main goal, focus in short-term goals.
 
-# references
+## references
 

@@ -14,5 +14,5 @@ The most common devices in LANs are:
 - [servers](notes/servers.md) and
 - [hosts](notes/hosts.md).
 
-# references
+## references
 

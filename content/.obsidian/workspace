@@ -41,6 +41,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "1ed3961524e61839",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/vulnerability-prioritization.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -129,14 +142,14 @@
   "active": "67e49b9256e1483e",
   "lastOpenFiles": [
     "notes/vulnerability-management.md",
-    "notes/vulnerability-scan.md",
+    "notes/vulnerability-response.md",
+    "notes/vulnerability-prioritization.md",
+    "notes/vulnerabilities-false-positives.md",
+    "notes/cvss.md",
     "notes/vulnerability.md",
+    "notes/vulnerability-scan.md",
     "notes/ethical-hacking.md",
     "notes/auditing.md",
-    "notes/iscsi.md",
-    "notes/storage-area-network.md",
-    "notes/workstations.md",
-    "notes/workgroups.md",
-    "notes/wireless-hub_and_spoke-topology.md"
+    "notes/iscsi.md"
   ]
 }

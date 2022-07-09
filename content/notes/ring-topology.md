@@ -9,5 +9,5 @@ The ring topology consists of the devices of the network being connected to a ci
 
 With these characteristics, similarly to the the [bus-topology](notes/bus-topology.md), it is not easy to add devices to the network, as it would need to break the ring, causing the network to go down. Because of this, this type of network doesn't have enough [fault-tolerance](notes/fault-tolerance.md).
 
-# references
+## references
 

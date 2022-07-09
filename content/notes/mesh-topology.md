@@ -11,5 +11,5 @@ This physical architecture allows for more [fault-tolerance](notes/fault-toleran
 
 Because of its characteristics, it is not a common to use the mesh topology in Local Area Networks (LAN), but it can be found in WANs ([wide-area-network](notes/wide-area-network.md)) in a hybrid form, the [hybrid-mesh-topology](notes/hybrid-mesh-topology.md).
 
-# references
+## references
 

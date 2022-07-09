@@ -12,5 +12,5 @@ The peer-to-peer (P2P) network architecture consists in a number of computers co
 
 Considering this definition, it is valid to say that there is no central authority in this network. So, each computer is responsible to the security of its resources.
 
-# references
+## references
 

@@ -9,5 +9,5 @@ The bus topology consist of connecting the devices of a computer network to a te
 
 As advantages above other topologies, it is cheaper and easy to install. As disadvantages, it is hard to solve problems (troubleshooting) on it and reallocate it. Also, it doesn't provide enough [fault-tolerance](notes/fault-tolerance.md), so any problems in the bus cable and the network goes down.
 
-# references
+## references
 
