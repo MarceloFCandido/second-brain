@@ -1,5 +1,5 @@
 ---
-title: Marcelo's Second Brain 🧠
+title: Marcelo's Second Brain
 ---
 
 Hi, I'm [Marcelo Ferreira Cândido](notes/about_me.md), and it's my second brain.
