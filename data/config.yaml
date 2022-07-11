@@ -1,4 +1,4 @@
-name: Marcelo Ferreira Cândido 🧠
+name: Marcelo's Second Brain
 enableToc: false
 openToc: false
 enableLinkPreview: true
@@ -7,10 +7,8 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-description:
-  It's where Marcelo keeps its study notes while following some kind of Zettelkasten method.
-page_title:
-  "Marcelo's Second Brain 🧠"
+description: It's where Marcelo keeps its study notes while following some kind of Zettelkasten method.
+page_title: "Marcelo's Second Brain"
 links:
   - link_name: Github
     link: https://github.com/MarceloFCandido
