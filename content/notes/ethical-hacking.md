@@ -14,6 +14,7 @@ Ethical Hacking field began in 1961, with MIT researchers hacking a train toy. I
 In the 90's and 2000's, the [Internet](notes/internet.md) became common and so the cyber attacks, resulting in criminals being arrested, fined and/or condemned to social services. Enterprises became concerned about their systems and started to hire people that would protect them: ethical hackers. Some of them were ex-cyber criminals that began to do services for these companies.
 
 ## Areas
-
+### Vulnerability Management
+For a system to be invaded it has to have an advantageous weakness and it has to be interactive. Those weaknesses are vulnerabilities and they need to be [managed](notes/vulnerability-management.md). I.e. you need to know the vulnerabilities of your system/application and respond to them. But, if a system has no weaknesses, i. e. it has no [attack surface](notes/attack-surface.md), it cannot be hacked.
 
 ## references

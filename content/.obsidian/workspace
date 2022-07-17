@@ -4,7 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f7407a7b4c2e54e9",
+        "id": "94859dd9164107bf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_index.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0b3f0c3022873617",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -17,20 +30,7 @@
         }
       },
       {
-        "id": "94859dd9164107bf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/vulnerability.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "67e49b9256e1483e",
+        "id": "768fa1a4b73a72fe",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -43,12 +43,12 @@
         }
       },
       {
-        "id": "1ed3961524e61839",
+        "id": "5ce51b23707f01f9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/vulnerability-prioritization.md",
+            "file": "notes/vulnerability-scan.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "oftenly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.00868225097656
+    "width": 254.50868225097656
   },
   "right": {
     "id": "e06002c437041b36",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/vulnerability-management.md",
+                "file": "notes/vulnerability-scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/vulnerability-management.md",
+                "file": "notes/vulnerability-scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "67e49b9256e1483e",
+  "active": "5ce51b23707f01f9",
   "lastOpenFiles": [
-    "notes/vulnerability-management.md",
-    "notes/vulnerability-response.md",
-    "notes/vulnerability-prioritization.md",
-    "notes/vulnerabilities-false-positives.md",
-    "notes/cvss.md",
-    "notes/vulnerability.md",
+    "notes/network-congestion.md",
     "notes/vulnerability-scan.md",
+    "notes/url.md",
+    "notes/web-application.md",
+    "_index.md",
+    "notes/policy-template.md",
+    "notes/learning-how-to-learn.md",
+    "notes/vulnerability-management.md",
     "notes/ethical-hacking.md",
-    "notes/auditing.md",
-    "notes/iscsi.md"
+    "notes/market-ecosystem.md"
   ]
 }
