@@ -43,12 +43,51 @@
         }
       },
       {
-        "id": "5ce51b23707f01f9",
+        "id": "fac13e3555a0a226",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "notes/vulnerability-scan.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a9209fb3b45e8068",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/vulnerability-report.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "420e9512bd5dd3d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/vulnerability-prioritization.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0851ab7e80033a69",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/vulnerability-remediation-plan.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -109,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/vulnerability-scan.md",
+                "file": "notes/vulnerability-remediation-plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/vulnerability-scan.md",
+                "file": "notes/vulnerability-remediation-plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +178,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ce51b23707f01f9",
+  "active": "0851ab7e80033a69",
   "lastOpenFiles": [
-    "notes/network-congestion.md",
-    "notes/vulnerability-scan.md",
-    "notes/url.md",
-    "notes/web-application.md",
-    "_index.md",
-    "notes/policy-template.md",
-    "notes/learning-how-to-learn.md",
+    "notes/vulnerability-prioritization.md",
+    "notes/vulnerability-remediation-plan.md",
     "notes/vulnerability-management.md",
-    "notes/ethical-hacking.md",
-    "notes/market-ecosystem.md"
+    "notes/vulnerability-report.md",
+    "notes/vulnerability-scan.md",
+    "notes/cvss.md",
+    "notes/asset-discovering.md",
+    "_index.md",
+    "notes/network-congestion.md",
+    "notes/url.md"
   ]
 }
