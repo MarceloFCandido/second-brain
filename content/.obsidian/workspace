@@ -4,90 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "94859dd9164107bf",
+        "id": "74f2c1e4bb276308",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0b3f0c3022873617",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/ethical-hacking.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "768fa1a4b73a72fe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/vulnerability-management.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "fac13e3555a0a226",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/vulnerability-scan.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a9209fb3b45e8068",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/vulnerability-report.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "420e9512bd5dd3d2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/vulnerability-prioritization.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0851ab7e80033a69",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/vulnerability-remediation-plan.md",
+            "file": "notes/vulnerability-response.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -148,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/vulnerability-remediation-plan.md",
+                "file": "notes/vulnerability-response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,9 +87,28 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/vulnerability-remediation-plan.md",
+                "file": "notes/vulnerability-response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0d86dae3c0aa357d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "420e9512bd5dd3d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/vulnerability-prioritization.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -178,17 +119,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0851ab7e80033a69",
+  "active": "74f2c1e4bb276308",
   "lastOpenFiles": [
+    "private/private-note.md",
     "notes/vulnerability-prioritization.md",
     "notes/vulnerability-remediation-plan.md",
+    "notes/vulnerability-response.md",
     "notes/vulnerability-management.md",
+    "_index.md",
+    "notes/ethical-hacking.md",
     "notes/vulnerability-report.md",
     "notes/vulnerability-scan.md",
-    "notes/cvss.md",
-    "notes/asset-discovering.md",
-    "_index.md",
-    "notes/network-congestion.md",
-    "notes/url.md"
+    "notes/cvss.md"
   ]
 }
