@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/cvss.md",
+            "file": "notes/vulnerability-management.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -17,12 +17,12 @@
         }
       },
       {
-        "id": "6d57889f95cbca97",
+        "id": "c27a7e1bd6792de4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/base-scores.md",
+            "file": "notes/vulnerability-scan.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -30,25 +30,12 @@
         }
       },
       {
-        "id": "7d14175d6948530c",
+        "id": "5ceaff1c866bf577",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/temporal-scores.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "14299932f41e57fd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/environmental-scores.md",
+            "file": "notes/vulnerability-chaining.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/environmental-scores.md",
+                "file": "notes/vulnerability-chaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/environmental-scores.md",
+                "file": "notes/vulnerability-chaining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14299932f41e57fd",
+  "active": "5ceaff1c866bf577",
   "lastOpenFiles": [
+    "notes/vulnerability-scan.md",
+    "notes/false-negative.md",
+    "notes/false-positive.md",
+    "notes/vulnerability-management.md",
+    "notes/cvss.md",
     "notes/base-scores.md",
     "notes/temporal-scores.md",
     "notes/environmental-scores.md",
-    "notes/cvss.md",
     "notes/ethical-hacking.md",
-    "notes/vulnerability-management.md",
-    "notes/attack-scope.md",
-    "notes/authorization-scope.md",
-    "notes/attack-complexity.md",
-    "notes/attack-vector.md"
+    "notes/attack-scope.md"
   ]
 }
