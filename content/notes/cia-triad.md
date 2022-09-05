@@ -11,4 +11,4 @@ The CIA Triad consists of three elements essential for the [infosec](notes/infor
 * [Availability](notes/availability.md).
 
 
-## references
+## References

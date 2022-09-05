@@ -32,5 +32,5 @@ The architectures presented can be defined as the logical topologies of networks
 * [point-to-multipoint](notes/point_to_multipoint-topology.md);
 * [hybrid](notes/hybrid-topology.md);
 
-## references
+## References
 

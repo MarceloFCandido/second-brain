@@ -17,4 +17,4 @@ In the 90's and 2000's, the [Internet](notes/internet.md) became common and so t
 ### Vulnerability Management
 For a system to be invaded it has to have an advantageous weakness and it has to be interactive. Those weaknesses are vulnerabilities and they need to be [managed](notes/vulnerability-management.md). I.e. you need to know the vulnerabilities of your system/application and respond to them. But, if a system has no weaknesses, i. e. it has no [attack surface](notes/attack-surface.md), it cannot be hacked.
 
-## references
+## References

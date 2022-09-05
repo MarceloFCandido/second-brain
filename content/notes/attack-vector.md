@@ -9,4 +9,4 @@ The attack vector is the way an invader can access a [vulnerability](notes/vulne
 
 The physical attacks can use as vector pendrives or vulnerable computers, for example. Also, for the remote ones, it can be used infected software or unauthorized Internet connection.
 
-## references
+## References

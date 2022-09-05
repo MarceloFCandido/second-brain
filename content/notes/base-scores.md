@@ -16,4 +16,4 @@ The base scores from [CVSS](notes/cvss.md) are based on the view of the product 
 1. availability impact,
 being the later three related to the [CIA triad](notes/cia-triad.md).
 
-## references
+## References

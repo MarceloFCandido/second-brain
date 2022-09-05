@@ -13,4 +13,4 @@ The base scores are reevaluated by the perspective of the environment of the com
 
 Also, it is important to note that impact and requirements, related to evaluation of the [CIA triad](notes/cia-triad.md), are different. The primer measures the result of possible exploitation. The later how much the assessed company cares about the vulnerability.
 
-## references
+## References

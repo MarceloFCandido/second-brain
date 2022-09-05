@@ -11,5 +11,5 @@ Although it uses more cabling than [bus-topology](notes/bus-topology.md), for ex
 
 Some more sophisticated implementations of hub-and-spoke topology are: [[point_to_point-link]] and [[wireless-hub_and_spoke-topology]].
 
-## references
+## References
 
