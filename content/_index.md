@@ -2,7 +2,7 @@
 title: Marcelo's Second Brain
 ---
 
-Hi, I'm [Marcelo Ferreira Cândido](notes/about_me.md), and it's my second brain.
+Hi, I'm [Marcelo Ferreira Cândido](notes/about-me.md), and it's my second brain.
 While I'm studying, I like to take notes using some kind of [Zettelkasten method](https://en.wikipedia.org/wiki/Zettelkasten).
 So, I decided to publish it as I study.
 

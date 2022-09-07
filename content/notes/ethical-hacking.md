@@ -17,4 +17,7 @@ In the 90's and 2000's, the [Internet](notes/internet.md) became common and so t
 ### Vulnerability Management
 For a system to be invaded it has to have an advantageous weakness and it has to be interactive. Those weaknesses are vulnerabilities and they need to be [managed](notes/vulnerability-management.md). I.e. you need to know the vulnerabilities of your system/application and respond to them. But, if a system has no weaknesses, i. e. it has no [attack surface](notes/attack-surface.md), it cannot be hacked.
 
+### System Auditing
+After collecting vulnerabilities by [automated scanning](notes/vulnerability-scan.md), as there are [false positives](notes/false-positive.md) and [negatives](notes/false-negative.md), the ethical hacker must test manually the system/application for validating it. It is called [system auditing](notes/system-auditing.md).
+
 ## References
