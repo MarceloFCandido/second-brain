@@ -1,0 +1,131 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "reconnaissance": {
+      "reconnaissance": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662593682735
+        }
+      }
+    },
+    "ports": {
+      "ports": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662593726428
+        }
+      }
+    },
+    "gathering": {
+      "gathering": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662593775488
+        }
+      }
+    },
+    "Scripting": {
+      "Scripting": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662593793474
+        }
+      }
+    },
+    "Engine": {
+      "Engine": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662593799289
+        }
+      }
+    },
+    "Metasploit": {
+      "Metasploit": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1662600795883
+        }
+      }
+    },
+    "vulnerabilities": {
+      "vulnerabilities": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1663435256104
+        }
+      }
+    },
+    "exploitable": {
+      "exploitable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663434477005
+        }
+      }
+    },
+    "vulnerability": {
+      "vulnerability": {
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1663438757441
+        },
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1663438760365
+        }
+      }
+    },
+    "executed": {
+      "executed": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663438709214
+        }
+      }
+    }
+  }
+}

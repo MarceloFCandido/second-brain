@@ -4,20 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b9fa5dd436d7e4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/system-auditing.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "891ffbd2413e8f9d",
+        "id": "2fa65421b4be2dc9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -54,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oftenly",
+                "query": "efficacy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.50868225097656,
-    "collapsed": true
+    "width": 332.50868225097656
   },
   "right": {
     "id": "e06002c437041b36",
@@ -114,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "891ffbd2413e8f9d",
+  "active": "2fa65421b4be2dc9",
   "lastOpenFiles": [
     "notes/system-auditing.md",
+    "notes/audition-validation.md",
     "notes/audition-reconnaissance.md",
     "notes/audition-research.md",
-    "notes/audition-validation.md",
+    "notes/test-scope.md",
     "notes/audition-reporting.md",
     "notes/vulnerability-report.md",
     "notes/vulnerability-and-exploit-research.md",
     "notes/audition-report.md",
-    "notes/Untitled.md",
-    "notes/ethical-hacking.md"
+    "notes/Untitled.md"
   ]
 }
